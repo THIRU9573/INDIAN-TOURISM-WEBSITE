@@ -4,7 +4,7 @@ A platform to show your love towards the nature
   1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
   2. Demo Video URL :  [https://www.youtube.com/watch?v=tJfQv_Ro0-k]
   3. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
-  4. Industry : Earth
+  4. Industry : Lifestyle
 # My Team and Roles:
   1.E.thirupathi : <br>
     Developer of the project. Created website and managed the website using HTML,CSS, Bootstrap.  <br>
@@ -22,9 +22,9 @@ A platform to show your love towards the nature
   1.Azure Language Resource<br>
   2.Azure bot
 # Problem Statement:
-The absence of mobile responsiveness further impedes accessibility for a significant user base. A critical need exists for a comprehensive website overhaul to modernize design, enhance product showcasing, improve user interaction, and ensure mobile compatibility. This project aims to address these challenges and elevate the online presence of Blossom Valley Nursery.
+Create a dynamic Indian tourism website facilitating easy travel planning with a user-friendly interface, featuring itinerary customization, accommodation, and transportation options. Ensure inclusivity with multilingual support, highlighting cultural events, local cuisine, and providing a platform for user reviews to enhance the overall travel experience. Implement responsive design for accessibility, aiming to inspire global travelers to explore and appreciate the diverse attractions of India.
 # Project Decription:
-Blossom Valley Nursery's web project is a delightful fusion of horticulture and modern web development technologies. Leveraging HTML and CSS, the website boasts an aesthetically pleasing design that mirrors the natural beauty of the nursery's flora. The user interface is intuitively crafted, offering a seamless navigation experience for plant enthusiasts and prospective customers. To ensure accessibility and scalability, the static web application is deployed on the Azure portal, providing a robust and reliable hosting solution. This integration not only enhances the website's performance but also aligns with contemporary industry standards, making Blossom Valley Nursery's online presence as vibrant and thriving as their botanical offerings.
+The Indian Tourism Website Documentation provides a comprehensive guide to a project dedicated to showcasing India's diverse tourism destinations. Utilizing HTML5, CSS3, and Bootstrap, the website prioritizes clarity and intuitiveness with a welcoming homepage, detailed destination pages, and a responsive navigation bar. The design strategy ensures seamless adaptability across devices, emphasizing content richness on historical significance, cultural highlights, and tourist attractions. Rigorous testing guarantees a consistent and compatible user experience across browsers, culminating in a user-friendly platform promoting India's tourism offerings.
 # Core Azure Services #
    **Azure Blob Storage**: <br>
    Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications. <br>
@@ -63,15 +63,22 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 
 # Working Live Project Display
 **Home Page**
-![Screenshot 2023-12-21 134821](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/c6cdf29c-9126-479b-b3a0-3ae47664b0ca)
-![Screenshot 2023-12-21 134849](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/467e3ed9-d121-408b-909f-3c38cb296b3b)
-![Screenshot 2023-12-21 135005](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/5b93a6d1-f79f-433d-8241-4cb26e5ff734)
-![Screenshot 2023-12-21 135057](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/703b7169-943b-4f71-8133-bf6b08e8c54b)
-![Screenshot 2023-12-21 135126](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/563e41a4-f43e-4f91-b70c-2cd4f152b528)
-![Screenshot 2023-12-21 135225](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/7328a548-8135-452f-bad8-75e19752e0c9)
-![Screenshot 2023-12-21 135308](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/6c158c4e-068a-4a29-aeb7-8b443f021a4d)
-![Screenshot 2023-12-21 135402](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/054c6ec6-1e3b-4bf5-987b-49948c918712)
-![Screenshot 2023-12-21 135457](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/9f2a95d0-74e4-43fa-89b8-f6902c0c204c)
+<img width="960" alt="1" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/8d582b54-28e4-461a-9602-e9eaa1ef541a">
+<img width="960" alt="2" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/04aad30d-e3d5-453d-aa0c-4132daffc908">
+<img width="960" alt="3" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/c510f708-78a8-48ca-85d3-58dbb1d936f1">
+<img width="960" alt="4" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/8f269f29-a7af-4c25-8e05-a0070997ee67">
+<img width="960" alt="5" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/3039c0ab-1968-4752-a4bd-2ab0e0af3ede">
+<img width="960" alt="6" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/ae8cc352-4ddb-4057-b040-2e9313d7d27a">
+<img width="960" alt="7" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/59af8c2a-71ce-4b38-8040-6b4fef8facbf">
+<img width="960" alt="8" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/145aec22-5df7-499e-bfff-026c00954e5c">
+<img width="960" alt="9" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/dc08e639-e012-4464-8453-02a39f86b318">
+<img width="960" alt="10" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/c14a6a02-602a-4815-9e56-b6fa11ad9dd7">
+<img width="960" alt="11" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/76a59c6e-ae0f-407d-8a88-cadf343c8555">
+<img width="960" alt="12" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/60685da8-4531-4005-a97a-2e6ecc71c7fa">
+<img width="960" alt="13" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/622d20e2-8807-4b41-bf45-92a92ba4c6b9">
+<img width="960" alt="14" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/85b826ac-7838-4be8-8a5a-dc147b21b6f7">
+
+
 
 
 
@@ -85,5 +92,5 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 # Final Project Statement
-Sure! For the project description of a static website for Blossom Valley Nursery, we can create a beautiful and informative website that showcases the various plants, flowers, and gardening services offered by the nursery. The website can include sections like About Us, Products, Services, Gallery, and Contact, providing visitors with all the necessary information they need. We can design it with a nature-inspired theme and ensure that it's user-friendly and visually appealing. 🌸🌿
+The Indian Tourism Website Documentation provides a comprehensive guide to a project dedicated to showcasing India's diverse tourism destinations. Utilizing HTML5, CSS3, and Bootstrap, the website prioritizes clarity and intuitiveness with a welcoming homepage, detailed destination pages, and a responsive navigation bar. The design strategy ensures seamless adaptability across devices, emphasizing content richness on historical significance, cultural highlights, and tourist attractions. Rigorous testing guarantees a consistent and compatible user experience across browsers, culminating in a user-friendly platform promoting India's tourism offerings.
 
