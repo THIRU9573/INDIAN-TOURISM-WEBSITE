@@ -3,13 +3,17 @@ A platform to show your love towards the nature
 # Project Details
   1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
   2. Demo Video URL :  [https://www.youtube.com/watch?v=tJfQv_Ro0-k]
-  3. Github Repository URL : [https://github.com/reddysrinuvas/reddysrinuvas]
+  3. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
   4. Industry : Earth
-# My Team:
-  1.Srinivasarao Pandi: Developer of the project <br>
-  2.Shaik Sohail Ahammed : Deployment <br>
-  3.Tirupathi Kethiri : README file upload <br>
-  4.Vishal Guddeti : Content Description <br>
+# My Team and Roles:
+  1.E.thirupathi : <br>
+    Developer of the project. Created website and managed the website using HTML,CSS, Bootstrap.  <br>
+  2.T.Laxmi Narayana: <br>
+    Data collection. done the entire process debugging and content collection of the project  <br>
+  3.Sushma : <br>
+    Documentation. and Create Azure AI chatbot and integrated with website <br>
+  4.A.Nikitha : <br>
+    Deployment. deploy the indian tourism website using app servives and storage account, static website in azure portal <br>
 # Azure Services Used
   1. Azure Blob storage
   2. Storage Account
