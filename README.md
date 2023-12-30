@@ -1,8 +1,8 @@
 # INDIAN TOURISM WEBSITE
 A platform to show your love towards the nature
 # Project Details
-  1. Project Demo URL : [https://srinu674.z9.web.core.windows.net/]
-  2. Demo Video URL :  [https://youtu.be/O_bIDRpg5po]
+  1. Project Demo URL : [https://tourism185.z9.web.core.windows.net/]
+  2. Demo Video URL :  [https://www.youtube.com/watch?v=tJfQv_Ro0-k]
   3. Github Repository URL : [https://github.com/reddysrinuvas/reddysrinuvas]
   4. Industry : Earth
 # My Team:
