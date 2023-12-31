@@ -2,7 +2,7 @@
 A platform to show your love towards the nature
 # Project Details
   1. Project Demo URL : [https://tourism81.z13.web.core.windows.net/]
-  2. Demo Video URL :  [https://www.youtube.com/watch?v=tJfQv_Ro0-k]
+  2. Demo Video URL :  [https://www.youtube.com/watch?v=PZVwBkQeC08]
   3. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
   4. Industry : Lifestyle
 # My Team and Roles:
