@@ -8,7 +8,7 @@ A platform to show your love towards the nature
 # My Team and Roles:
   1.E.Thirupathi : <br>
     Developer of the project. Created website and managed the website using HTML,CSS, Bootstrap.  <br>
-  2.T.Laxmi Narayana: <br>
+  2.T.Laxmi Narayana : <br>
     Data collection. done the entire process debugging and content collection of the project  <br>
   3.Sushma : <br>
     Documentation. and Create Azure AI chatbot and integrated with website <br>
