@@ -36,29 +36,27 @@ The Indian Tourism Website Documentation provides a comprehensive guide to a pro
   **Azure ChatBot**:<br>
   Azure AI Chatbot is a service in Microsoft Azure that enables the development of intelligent and conversational bots. Leveraging natural language processing and machine learning, it allows businesses to create interactive and context-aware chatbots for diverse applications, including customer support and virtual assistants. Azure AI Chatbot integrates with Azure Cognitive Services to enhance capabilities such as language understanding, sentiment analysis, and personalized user interactions.
 # ScreenShots:
-
-![Screenshot 2023-12-21 134717](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/9784fbb1-8b3e-40a0-90ec-8e102549ce7c)
-
+**Azure Storage Account:**
+<img width="960" alt="Storage Account" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/152073137/efdd8dd9-8991-4876-bd8b-394d859b7de3">
 
 **Azure Static Website:**
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
+<img width="960" alt="Azure Static Website " src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/152073137/4a7933d9-695c-4f61-a43a-43c4763aa387">
 
-![Screenshot 2023-12-21 134508](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/3d44adcf-9a70-4e53-a1ee-935f43c4bcbf)
-![Screenshot 2023-12-21 133756](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/1da6a79e-0eff-4ac0-97bd-64cdbe0bad06)
 
 **Azure blob storage:**
-
-![Screenshot 2023-12-21 161800](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/32fbe599-b5d9-497d-a2f5-5fb2cf6bf162)
+<img width="960" alt="Container" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/152073137/15532d58-4013-41c6-b225-a6cbf7dc8c0b">
 
 **Azure Backup Service:**
 Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
 
-![Screenshot 2023-12-21 134717](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/e7f4c865-0fee-4d06-95f7-20505f2801e7)
+<img width="960" alt="Data Protection" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/152073137/a72151f2-9d0c-4bee-854f-f8b65d0388dc">
+
 
 **Azure ChatBot:**
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability. 
+<img width="960" alt="azure chatbot" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/152073137/f58e24b3-a7e5-4c28-8f4f-1fb71559e665">
 
-![Screenshot 2023-12-21 134030](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/7fdedb94-823e-494b-a039-ae573e6673e3)
 
 
 # Working Live Project Display
@@ -87,8 +85,8 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 **Description**
 Here I am attaching the final working website's screenshot for the reference.
 # Resource Visualizer
+<img width="960" alt="Azure Resource Vizulizer" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/152073137/a4d9ab01-b054-4639-bb5d-06f0a4d69b58">
 
-![Screenshot 2023-12-21 165344](https://github.com/reddysrinuvas/reddysrinuvas/assets/151932332/0b585c15-d237-445e-a95d-4dfe3492c293)
 
 
 # Final Project Statement
