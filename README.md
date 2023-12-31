@@ -87,5 +87,6 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 # Final Project Statement
-The Indian Tourism Website Documentation provides a comprehensive guide to a project dedicated to showcasing India's diverse tourism destinations. Utilizing HTML5, CSS3, and Bootstrap, the website prioritizes clarity and intuitiveness with a welcoming homepage, detailed destination pages, and a responsive navigation bar. The design strategy ensures seamless adaptability across devices, emphasizing content richness on historical significance, cultural highlights, and tourist attractions. Rigorous testing guarantees a consistent and compatible user experience across browsers, culminating in a user-friendly platform promoting India's tourism offerings.
+The Indian Tourism Website Documentation provides a comprehensive guide to a project dedicated to showcasing India's diverse tourism destinations. Utilizing HTML5, CSS3, and Bootstrap, the website prioritizes clarity and intuitiveness with a welcoming homepage, detailed destination pages, and a responsive navigation bar. The design strategy ensures seamless adaptability across devices, emphasizing content richness on historical significance,cultural highlights, and tourist attractions. Rigorous testing guarantees a consistent and compatible user experience across browsers, culminating in a user-friendly platform promoting India's tourism offerings.
+
 
