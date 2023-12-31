@@ -6,13 +6,13 @@ A platform to show your love towards the nature
   3. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
   4. Industry : Lifestyle
 # My Team and Roles:
-  1.E.Thirupathi : <br>
+  1. E.Thirupathi : <br>
     Developer of the project. Created website and managed the website using HTML,CSS, Bootstrap.  <br>
-  2.T.Laxmi Narayana : <br>
+  2. T.Laxmi Narayana : <br>
     Data collection. done the entire process debugging and content collection of the project  <br>
-  3.Sushma : <br>
+  3. Sushma : <br>
     Documentation. and Create Azure AI chatbot and integrated with website <br>
-  4.A.Nikitha : <br>
+  4. A.Nikitha : <br>
     Deployment. deployed the Indian Tourism website using app servives and storage account, static website in Azure portal <br>
 # Azure Services Used
   1. Azure Blob storage
