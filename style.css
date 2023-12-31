@@ -1,0 +1,392 @@
+.background-container {
+    background-image: url("https://img.freepik.com/free-photo/cosmetics-product-advertising-stand-exhibition-wooden-podium-green-background-with-leaves-sha_1258-170138.jpg?t=st=1695045153~exp=1695048753~hmac=edf5dfd29d4c5f5ded6e5a35212caf7b57a117198628db2366e1da88463edc2d&w=826");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.fashion-card {
+    text-align: center;
+    background-color: #112C66;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    color: #fff;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.btn:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan, 0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+
+.favouriteplacebg-container {
+    background-image: url("https://img.freepik.com/premium-photo/wooden-empty-frame-background_811396-32138.jpg?w=826");
+    background-size: cover;
+}
+.main-heading {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-style: italic;
+}
+.favouriteplace-card-container {
+    background-color: white;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 16px;
+}
+.favoriteplace-card-heading {
+    color: black;
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.favoriteplace-card-image {
+    height: 120px;
+    width: 130px;
+}
+
+.detailedviewbg-container {
+    background-image: url("https://img.freepik.com/premium-photo/beautiful-daisy-flower_888087-1975.jpg?w=900");
+    background-size: cover;
+    
+}
+.main-heading {
+    color: white;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+}
+.card-container {
+    background-color: white;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin: 25px;
+}
+.card-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+}
+.paragraph {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+}
+.text-container {
+    padding: 10px;
+}
+
+h1{
+    padding: 22px;
+    font-family: sans-serif;
+}
+
+div.register{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px soid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    color: #fff;
+}
+form#register{
+    margin: 40px;
+}
+label{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+input#name{
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+    background-color: #fff;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
+}
+input#submit{
+    width: 200px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+    background-color: #e21203;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan;
+    margin-bottom: 20px;
+}
+input#submit:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0  25px cyan, 0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+* {
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    background-color: #043aac;
+}
+
+.main-heading {
+    padding: 20px 25px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.nav-container {
+    flex-grow: 5;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    display: inline-block;
+    position:relative;
+}
+
+ul li a {
+    display: block;
+    padding: 25px 25px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+}
+
+ul li ul.dropdown li {
+    display: block;
+    text-align: center; 
+}
+
+ul li ul.dropdown {
+    width: 200px;
+    background: #22438C;
+    position: absolute;
+    z-index: 999;
+    display: none;
+    text-align: center;
+}
+
+ul li a:hover {
+    background: #112C66;
+    padding: 10px 20px;
+}
+
+ul li:hover ul.dropdown {
+    display: block;
+}
+
+.head-box {
+    font-size: 40px;
+    line-height: 20px;
+    color: transparent;
+    -webkit-text-stroke: 1px #fff;
+    background-image: url('back.png');
+    -webkit-background-clip: text;
+    background-clip: text; /* Add the standard property */
+    background-position: 0 0;
+    animation: back 20s linear infinite;
+}
+
+@keyframes back {
+    100% {
+        background-position: 1000px 0;
+    }
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+.popup{
+    width: 400px;
+    background:#fff ;
+    border-radius: 6px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%,-50%) scale(0.1);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #333;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+
+}
+.open-popup{
+    visibility: visible;
+    top: 50%;
+    transform: translate(-50%,-50%) scale(1);
+
+
+}
+.popup img{
+    width: 100px;
+    margin-top: -50%;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.popup h2{
+    font-size: 38px;
+    font-weight: 500;
+    margin: 30px 0 10px;
+}
+.popup button{
+    width: 100%;
+    margin-top: 50px;
+    padding: 10px 0;
+    background: #6fd649;
+    color: #fff;
+    border: 0;
+    outline: none;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+
+}
+
+.popup i.fa-solid.fa-circle-check {
+    font-size: 70px; /* Adjust the size as needed */
+    color: #00ff15; /* Change the color to your desired color */
+}
+/*-----------------------------------*/
+
+.errorpopup{
+    width: 400px;
+    background:#fff ;
+    border-radius: 6px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%,-50%) scale(0.1);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #333;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+
+}
+.error-popup{
+    visibility: visible;
+    top: 50%;
+    transform: translate(-50%,-50%) scale(1);
+
+
+}/*----
+.popup img{
+    width: 100px;
+    margin-top: -50%;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+*/
+.errorpopup h2{
+    font-size: 38px;
+    font-weight: 500;
+    margin: 30px 0 10px;
+}
+.errorpopup button{
+    width: 100%;
+    margin-top: 50px;
+    padding: 10px 0;
+    background: #e21203;
+    color: #fff;
+    border: 0;
+    outline: none;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+
+}
+.errorpopup i.fa-solid.fa-circle-xmark{
+    font-size: 70px;
+    color: #e21203;
+}
+i.fa-solid.fa-location-dot{
+    font-size: 45px;
+    color: #bfff00;
+    padding-top: 15px;
+}
+i.fa-brands.fa-square-reddit{
+    font-size: 60px;
+    color:#04ac47;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+#tajmahal-google-map-container {
+    margin-top: 20px;
+    text-align: center;
+}
+#kerala-google-map-container {
+    margin-top: 20px;
+    text-align: center;
+}
+#kashmir-google-map-container {
+    margin-top: 20px;
+    text-align: center;
+}
+#uttarpradesh-google-map-container {
+    margin-top: 20px;
+    text-align: center;
+}
+.bot-popup{
+    width: 500px;
+    background: #fff;
+    border-radius: 10px;
+    border: 5px solid #bfff00;
+    position:absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.1);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #333;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+
+}
+.chat-popup{
+    visibility: visible;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(1);
+}
+.i.fa-solid.fa-xmark{
+    font-size: 20px;
+    width: 10px;
+    height: 10px;
+    color: #e21203;
+    padding-top: 20px;
+}
+#cross-mark i.fa-xmark {
+    font-size: 24px; 
+    color: #e21203;
+}
