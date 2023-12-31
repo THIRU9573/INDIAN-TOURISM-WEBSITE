@@ -17,7 +17,7 @@ A platform to show your love towards the nature
 # Azure Services Used
   1. Azure Blob storage
   2. Storage Account
-  3. Azure Backup service
+  3. Azure Back Service
 # Azure AI Services Used:
   1.Azure Language Resource<br>
   2.Azure bot
