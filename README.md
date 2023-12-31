@@ -20,7 +20,7 @@ A platform to show your love towards the nature
   3. Azure Backup Service
 # Azure AI Services Used:
   1.Azure Language Resource<br>
-  2.Azure bot
+  2.Azure Bot
 # Problem Statement:
 Create a dynamic Indian tourism website facilitating easy travel planning with a user-friendly interface, featuring itinerary customization, accommodation, and transportation options. Ensure inclusivity with multilingual support, highlighting cultural events, local cuisine, and providing a platform for user reviews to enhance the overall travel experience. Implement responsive design for accessibility, aiming to inspire global travelers to explore and appreciate the diverse attractions of India.
 # Project Decription:
