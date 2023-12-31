@@ -72,6 +72,10 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 <img width="960" alt="9" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/dc08e639-e012-4464-8453-02a39f86b318">
 <img width="960" alt="10" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/c14a6a02-602a-4815-9e56-b6fa11ad9dd7">
 <img width="960" alt="11" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/76a59c6e-ae0f-407d-8a88-cadf343c8555">
+
+
+<img width="960" alt="chat working" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/151846037/d3df02d0-6889-4b31-9a79-1bbef6b0da29">
+
 <img width="960" alt="12" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/60685da8-4531-4005-a97a-2e6ecc71c7fa">
 <img width="960" alt="13" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/622d20e2-8807-4b41-bf45-92a92ba4c6b9">
 <img width="960" alt="14" src="https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE/assets/96030124/85b826ac-7838-4be8-8a5a-dc147b21b6f7">
