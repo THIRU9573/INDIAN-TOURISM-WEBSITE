@@ -13,7 +13,7 @@ A platform to show your love towards the nature
   3.Sushma : <br>
     Documentation. and Create Azure AI chatbot and integrated with website <br>
   4.A.Nikitha : <br>
-    Deployment. deploy the Indian Tourism website using app servives and storage account, static website in azure portal <br>
+    Deployment. deployed the Indian Tourism website using app servives and storage account, static website in azure portal <br>
 # Azure Services Used
   1. Azure Blob storage
   2. Storage Account
