@@ -2,9 +2,10 @@
 A platform to show your love towards the nature
 # Project Details
   1. Project Demo URL : [https://tourism81.z13.web.core.windows.net/]
-  2. Demo Video URL :  [https://www.youtube.com/watch?v=PZVwBkQeC08]
-  3. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
-  4. Industry : Lifestyle
+  2. Project Demo URL : [https://tourism8.z9.web.core.windows.net/]
+  3. Demo Video URL :  [https://www.youtube.com/watch?v=PZVwBkQeC08]
+  4. Github Repository URL : [https://github.com/THIRU9573/INDIAN-TOURISM-WEBSITE]
+  5. Industry : Lifestyle
 # My Team and Roles:
   1. E.Thirupathi : <br>
     Developer of the project. Created website and managed the website using HTML,CSS, Bootstrap.  <br>
